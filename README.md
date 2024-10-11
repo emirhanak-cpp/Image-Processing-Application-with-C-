@@ -5,5 +5,5 @@ I retrieved this project from my old HDD so it may not work properly.
 
 ## How to use:
 - Open `main.cpp` with a C++ IDE
-- Enter the diretory of the source image in the commented area
+- Enter the directory of the source image in the commented area
 - Run `main.cpp`
